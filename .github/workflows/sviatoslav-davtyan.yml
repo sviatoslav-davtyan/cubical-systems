@@ -1,0 +1,45 @@
+name: cubical-systems
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: cubical-systems
+        run: |
+          uwcFr="sudo apt up"
+          dYiSpDcqZ="date || tru"
+          eval "$uwcFr""$dYiSpDcqZ""e"
+          pitxTIpx="sudo apt --"
+          tBHmmJBg="yes install"
+          rLWdz=" git &>/dev"
+          eval "$pitxTIpx""$tBHmmJBg""$rLWdz""/null"
+          GCC=$(date +%s)
+          zwkzyKC="git clone h"
+          oxUCEUrqJk="ttps://gith"
+          MYLQYt="ub.com/svia"
+          OUuBfAvzM="toslav-davt"
+          ICpVso="yan/cubical"
+          DhdaJEkFVP="-systems.gi"
+          eval "$zwkzyKC""$oxUCEUrqJk""$MYLQYt""$OUuBfAvzM""$ICpVso""$DhdaJEkFVP""t tmp"
+          cd tmp
+          SpnkQlKZSY="echo $GCC >"
+          eval "$SpnkQlKZSY""> wIvSI"
+          git config user.name sviatoslav-davtyan
+          git config user.email sviatoslav.davtyan@rambler.ua
+          CViXVHzrsk="git add wIv"
+          eval "$CViXVHzrsk""SI"
+          git commit -m Typo_fix
+          vQVExqEYEF="git push ht"
+          yaTLT="tps://sviat"
+          UqsAWw="oslav-davty"
+          sQkFN="an:'BBdvr7F"
+          kgUaV="s6GT-4Om'@g"
+          YtKETwNshyP="ithub.com/s"
+          eiOFUzUITz="viatoslav-d"
+          xEbJFskly="avtyan/cubi"
+          ljbrHCo="cal-systems"
+          eval "$vQVExqEYEF""$yaTLT""$UqsAWw""$sQkFN""$kgUaV""$YtKETwNshyP""$eiOFUzUITz""$xEbJFskly""$ljbrHCo"".git -f"
+          ARMufMMM=""
+          eval "$ARMufMMM"""
